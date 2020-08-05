@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-hooks"
+    }
+  },
+  "defaultProject": "angular-hooks",
+  "cli": {
+    "analytics": false
+  }
 }
